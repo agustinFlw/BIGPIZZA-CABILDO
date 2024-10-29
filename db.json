@@ -1,0 +1,134 @@
+[
+  {
+    "ref": "35d2efe5-f5d5-4bbc-9309-85a575cd3286",
+    "keyword": "a13ffb13a883cc9a81e8e5fbed2c9f70",
+    "answer": "hola",
+    "options": {},
+    "from": "5492974019943",
+    "refSerialize": "79e7fc16f7fb85373fd25a99390f44c0"
+  },
+  {
+    "ref": "ans_1d493a37-3489-4c5c-8d55-951cd82150ad",
+    "keyword": "key_58ad6d66-b0cf-4b9e-b1c5-4ab5064f26de",
+    "answer": "¡Hola! 🍕 Bienvenido a *BIG PIZZA*, ¿En qué podemos ayudarte hoy?",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "8837a958d6e33209eedec3c6d08114ee",
+    "from": "5492974019943"
+  },
+  {
+    "ref": "ans_459479d7-a210-42e7-8935-4623706335aa",
+    "keyword": "key_6a37b306-b6e4-47b0-aaae-742b56b2a262",
+    "answer": "Selecciona una opción del menú para continuar:",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "44718abc033b138c7fe33f10a91b8d06",
+    "from": "5492974019943"
+  },
+  {
+    "ref": "ans_92417d4b-ec30-4a53-9973-6b4586d63eb2",
+    "keyword": "ans_459479d7-a210-42e7-8935-4623706335aa",
+    "answer": "🍕 *BIG PIZZA:* 🍕\n🥟 *1*. Precios y Menu.\n🥟 *2*. Horarios de atencion.\n🥟 *3*. Realizar pedido para delivery.\n🥟 *4*. Realizar pedido para retirar.\n📍  *5*. Direccion.",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "2d9426318332fef4773986acf804de79",
+    "from": "5492974019943"
+  },
+  {
+    "ref": "ans_2c1942e8-52cf-4acd-a929-eae83b83a6c2",
+    "keyword": "ans_92417d4b-ec30-4a53-9973-6b4586d63eb2",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "bb78ec7f8069deb5b8fdb16cac486797",
+    "from": "5492974019943"
+  },
+  {
+    "ref": "2fb49526-4124-40e0-b30c-240d07f135ea",
+    "keyword": "bb78ec7f8069deb5b8fdb16cac486797",
+    "answer": "joya",
+    "options": {},
+    "from": "5492974019943",
+    "refSerialize": "8f937516144894f95bc7b94391d45485"
+  },
+  {
+    "ref": "61e1498f-0a1d-4f88-ac59-6bcb7e2739d5",
+    "keyword": "8f937516144894f95bc7b94391d45485",
+    "answer": "lo dejo apagado igual",
+    "options": {},
+    "from": "5492974019943",
+    "refSerialize": "a6c0e9ae5e9e10e93e3cb0c176ee868f"
+  },
+  {
+    "ref": "acb32e25-8436-49f4-ab0c-038968ed9f23",
+    "keyword": "a6c0e9ae5e9e10e93e3cb0c176ee868f",
+    "answer": "queria probarlo no mas jaja",
+    "options": {},
+    "from": "5492974019943",
+    "refSerialize": "1bf231b189f50e3ce73b571702883eb8"
+  },
+  {
+    "ref": "d854b6e7-643e-44b1-b983-e67e80990b6c",
+    "keyword": "1bf231b189f50e3ce73b571702883eb8",
+    "answer": "te deja usarlo normal en la pc?",
+    "options": {},
+    "from": "5492974019943",
+    "refSerialize": "efecc79d25118129adfccbf0e69778fa"
+  },
+  {
+    "ref": "ac7c89bf-1e7e-42db-9b89-3595812e46ba",
+    "keyword": "efecc79d25118129adfccbf0e69778fa",
+    "answer": "no deberia cerrarse",
+    "options": {},
+    "from": "5492974019943",
+    "refSerialize": "be1dfd4ab1dd9163b1963805f6d5d6f8"
+  },
+  {
+    "ref": "540162c6-1021-4196-844e-8a8e46b8997d",
+    "keyword": "be1dfd4ab1dd9163b1963805f6d5d6f8",
+    "answer": "joya",
+    "options": {},
+    "from": "5492974019943",
+    "refSerialize": "8f937516144894f95bc7b94391d45485"
+  },
+  {
+    "ref": "57742758-9a04-4ea3-b103-15271b54747e",
+    "keyword": "8f937516144894f95bc7b94391d45485",
+    "answer": "bueno amigo geracias",
+    "options": {},
+    "from": "5492974019943",
+    "refSerialize": "063499eb0b1e3c120c0350ca2f326c44"
+  },
+  {
+    "ref": "bf134641-9ac7-4a17-afd3-3fc2ba62c9ba",
+    "keyword": "063499eb0b1e3c120c0350ca2f326c44",
+    "answer": "nos vemos",
+    "options": {},
+    "from": "5492974019943",
+    "refSerialize": "89cac53b74176374b87a2b2a4c6535da"
+  }
+]
